@@ -24,9 +24,6 @@ My name is Jumana and I am a student studying Computer and Information Systems (
 
 
 ---
-<!-- Stats -->
-<h3>📈 </h3>
-
 
 <!--END_SECTION:waka-->
 <br />
