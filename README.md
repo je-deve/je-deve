@@ -11,7 +11,7 @@
 
 ---
 My name is Jumana and I am a student studying Computer and Information Systems (CIS) at Taibah University. I have developed skills in using data analysis and visualization tools like Power BI, as well as design software like Figma and I curently learn PHP LARAVEL 
-</p.
+</p>
 
 <!-- Languages and tools -->
 
