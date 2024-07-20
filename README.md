@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](Purple Aquamarine Art Pixel Art Discord Profile Banner.png)
 
 <!-- visitor counter -->
 <p align="center"> 
