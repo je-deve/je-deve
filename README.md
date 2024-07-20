@@ -1,4 +1,4 @@
-![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
+![Banner](https://github.com/je-deve/je-deve/blob/master/GitHub-Profile-Cover.jpg)
 
 <!-- visitor counter -->
 <p align="center"> 
