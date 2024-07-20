@@ -1,4 +1,4 @@
-![Banner]([Purple Aquamarine Art Pixel Art Discord Profile Banner.png](https://raw.githubusercontent.com/je-deve/je-deve/main/Purple%20Aquamarine%20Art%20Pixel%20Art%20Discord%20Profile%20Banner.png))
+![Banner](https://raw.githubusercontent.com/je-deve/je-deve/main/Purple%20Aquamarine%20Art%20Pixel%20Art%20Discord%20Profile%20Banner.png)
 
 <!-- visitor counter -->
 <p align="center"> 
