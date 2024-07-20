@@ -27,7 +27,7 @@
 
 ---
 <!-- Stats -->
-<h3>📈 My Dev Statistics: </h3>
+<h3>📈 </h3>
 
 
 <!--END_SECTION:waka-->
