@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/je-deve/je-deve/main/2.png)
+![Banner]()
 
 <!-- visitor counter -->
 <p align="center"> 
