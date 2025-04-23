@@ -8,7 +8,6 @@
 </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
-- Ask me about anything, I'm happy to help
 
 ---
 
