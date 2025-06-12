@@ -14,7 +14,7 @@
 
 ## 🌱 About Me
 
-Hi, I'm **Jumanah**! I'm an Information Systems student passionate about AI, data analytics, and mobile development. I work on various projects and I'm dedicated to enriching Arabic programming content.
+Hi, I'm **Jumanah**! I'm an Information Systems graduate passionate about AI, data analytics, and mobile development. I work on various projects and I'm dedicated to enriching Arabic programming content.
 
 ## 🍃 Technical Skills
 
