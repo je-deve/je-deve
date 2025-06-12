@@ -14,7 +14,7 @@
 
 ## 🌱 About Me
 
-Hi, I'm Jumanah! I'm a passionate developer interested in AI, data analytics, and mobile development. I enjoy creating clean, efficient solutions and exploring new technologies.
+Hi, I'm **Jumanah**! I'm an Information Systems student passionate about AI, data analytics, and mobile development. I work on various projects and I'm dedicated to enriching Arabic programming content.
 
 ## 🍃 Technical Skills
 
@@ -33,9 +33,8 @@ const jumanahSkills = {
 
 <div align="center">
   
-![Jumanah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumanah&show_icons=true&theme=forest&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jumanah&layout=compact&theme=forest&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=jumanah&show_icons=true&theme=forest&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=c9d1d9" alt="Jumanah's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanah&layout=compact&theme=forest&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -47,7 +46,7 @@ const jumanahSkills = {
 
 ## 🤝 Connect With Me
 
-Like the open house in the green valley, my doors are always open for collaboration and discussion:
+My doors are always open for collaboration and discussion:
 
 - 🌐 **Portfolio**: Soon
 - 📧 **Email**: joojahy9@gmail.com
@@ -58,7 +57,6 @@ Like the open house in the green valley, my doors are always open for collaborat
 
 ```
 🌱 Currently learning: Advanced AI and Machine Learning
-🔭 Working on: HR Management System 
 👯 Looking to collaborate on: Arabic programming content and educational resources
 🎯 2025 Goals: Launch comprehensive Arabic programming tutorials and complete HR system
 ```
@@ -70,6 +68,5 @@ Like the open house in the green valley, my doors are always open for collaborat
 ### 🌿 "Building bridges between Arabic speakers and technology" 🌿
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jumanah&color=green&style=flat-square&label=Profile+Views)
-
 
 </div>
