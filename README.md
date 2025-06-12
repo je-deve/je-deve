@@ -51,7 +51,7 @@ My doors are always open for collaboration and discussion:
 - 🌐 **Portfolio**: Soon
 - 📧 **Email**: joojahy9@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/jumanah](https://linkedin.com/in/jumanahalrehaili)
-- 🐦 **Twitter**: [@Ar4Cloudy]([https://twitter.com/jumanah_dev](https://x.com/Ar4Cloudy))
+- 🐦 **Twitter**: [@Ar4Cloudy](https://x.com/Ar4Cloudy)
 
 ## 📈 Current Journey
 
