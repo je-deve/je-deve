@@ -14,7 +14,7 @@
 
 ## 🌱 About Me
 
-Hi, I'm **Jumanah**! I'm an Information Systems student passionate about AI, data analytics, and mobile development. I work on various projects including HR management systems and I'm dedicated to enriching Arabic programming content.
+Hi, I'm Jumanah! I'm a passionate developer interested in AI, data analytics, and mobile development. I enjoy creating clean, efficient solutions and exploring new technologies.
 
 ## 🍃 Technical Skills
 
@@ -49,27 +49,19 @@ const jumanahSkills = {
 
 Like the open house in the green valley, my doors are always open for collaboration and discussion:
 
-- 🌐 **Portfolio**: [jumanah.dev](https://jumanah.dev)
-- 📧 **Email**: jumanah@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/jumanah](https://linkedin.com/in/jumanah)
-- 🐦 **Twitter**: [@jumanah_dev](https://twitter.com/jumanah_dev)
+- 🌐 **Portfolio**: Soon
+- 📧 **Email**: joojahy9@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/jumanah](https://linkedin.com/in/jumanahalrehaili)
+- 🐦 **Twitter**: [@Ar4Cloudy]([https://twitter.com/jumanah_dev](https://x.com/Ar4Cloudy))
 
 ## 📈 Current Journey
 
 ```
 🌱 Currently learning: Advanced AI and Machine Learning
-🔭 Working on: HR Management System with AI features
+🔭 Working on: HR Management System 
 👯 Looking to collaborate on: Arabic programming content and educational resources
-💬 Ask me about: React, Node.js, HR systems, or Arabic tech content!
 🎯 2025 Goals: Launch comprehensive Arabic programming tutorials and complete HR system
 ```
-
-## 🌟 Fun Facts About Me
-
-- 💼 I'm passionate about solving HR challenges through technology
-- 📝 I create programming content in Arabic to help fellow developers
-- 🤖 I integrate AI solutions into business applications
-- 📊 I love turning complex data into meaningful insights
 
 ---
 
@@ -79,6 +71,5 @@ Like the open house in the green valley, my doors are always open for collaborat
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jumanah&color=green&style=flat-square&label=Profile+Views)
 
-⭐ **Don't forget to star the projects you like!** ⭐
 
 </div>
