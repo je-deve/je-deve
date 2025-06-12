@@ -12,7 +12,7 @@
 
 ## 🌱 About Me
 
-Hi, I'm **Jumanah**! I'm a passionate developer interested in AI, data analytics, and mobile development. I enjoy creating clean, efficient solutions and exploring new technologies.
+Hi, I'm **Jumanah**! I'm a passionate developer interested in AI, data analytics, and mobile development. Currently working on an HR management system and dedicated to enriching Arabic programming content.
 
 ## 🍃 Technical Skills
 
@@ -29,17 +29,17 @@ const jumanahSkills = {
 
 ## 🌿 Featured Projects
 
-### 🏡 **Code Cottage** - Project Management App
-- A peaceful and organized environment for managing your coding projects
-- Design inspired by green nature aesthetics
+### 🏢 **HR Management System** - Enterprise Solution
+- Comprehensive human resources management platform
+- Built with modern web technologies for optimal performance
 
-### 🌳 **Algorithm Forest** - Educational Library
-- Explaining algorithms in a simple and engaging way
-- Green interface that's easy on the eyes
+### 📚 **Arabic Programming Hub** - Educational Platform
+- Creating Arabic programming content and tutorials
+- Making technology accessible to Arabic-speaking developers
 
-### 🏔️ **Summit Challenge** - Coding Platform
-- Progressive difficulty coding challenges
-- An enjoyable learning journey for developers
+### 📊 **Data Analytics Dashboard** - Business Intelligence
+- Interactive dashboards for data-driven decision making
+- Clean and intuitive data visualization
 
 ## 📊 GitHub Statistics
 
@@ -69,25 +69,25 @@ Like the open house in the green valley, my doors are always open for collaborat
 ## 📈 Current Journey
 
 ```
-🌱 Currently learning: Machine Learning & AI
-🔭 Working on: Smart sustainable agriculture app
-👯 Looking to collaborate on: Environmental tech and green technology projects
-💬 Ask me about: React, Node.js, or anything about programming!
-🎯 2025 Goals: Contributing to open source and building eco-friendly tech solutions
+🌱 Currently learning: Advanced AI and Machine Learning
+🔭 Working on: HR Management System with AI features
+👯 Looking to collaborate on: Arabic programming content and educational resources
+💬 Ask me about: React, Node.js, HR systems, or Arabic tech content!
+🎯 2025 Goals: Launch comprehensive Arabic programming tutorials and complete HR system
 ```
 
 ## 🌟 Fun Facts About Me
 
-- 🌱 I grow plants while I grow code
-- ☕ I code best with green tea instead of coffee
-- 🏔️ I find my best ideas during mountain hikes
-- 📚 I believe every bug is just a feature waiting to be understood
+- 💼 I'm passionate about solving HR challenges through technology
+- 📝 I create programming content in Arabic to help fellow developers
+- 🤖 I integrate AI solutions into business applications
+- 📊 I love turning complex data into meaningful insights
 
 ---
 
 <div align="center">
   
-### 🌿 "Every line of code is a seed for a better future" 🌿
+### 🌿 "Building bridges between Arabic speakers and technology" 🌿
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jumanah&color=green&style=flat-square&label=Profile+Views)
 
