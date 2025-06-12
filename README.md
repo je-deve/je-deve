@@ -6,8 +6,7 @@
     🌿 In the heart of green mountains, dreams grow and ideas flourish 🌿
 ```
 
-![Green Nature Banner]([https://github.com/je-deve/je-deve/blob/main/header.jpg?raw=true](https://github.com/je-deve/je-deve/blob/main/header_v2.jpg?raw=true))
-
+![Green Nature Banner](https://github.com/je-deve/je-deve/blob/main/header_v2.jpg?raw=true)
 </div>
 
 ---
