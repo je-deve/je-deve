@@ -6,13 +6,15 @@
     🌿 In the heart of green mountains, dreams grow and ideas flourish 🌿
 ```
 
+![Green Nature Banner](https://user-images.githubusercontent.com/yourusername/green-banner.png)
+
 </div>
 
 ---
 
 ## 🌱 About Me
 
-Hi, I'm **Jumanah**! I'm a passionate developer interested in AI, data analytics, and mobile development. Currently working on an HR management system and dedicated to enriching Arabic programming content.
+Hi, I'm **Jumanah**! I'm an Information Systems student passionate about AI, data analytics, and mobile development. I work on various projects including HR management systems and I'm dedicated to enriching Arabic programming content.
 
 ## 🍃 Technical Skills
 
@@ -26,20 +28,6 @@ const jumanahSkills = {
     design: ['Figma']
 };
 ```
-
-## 🌿 Featured Projects
-
-### 🏢 **HR Management System** - Enterprise Solution
-- Comprehensive human resources management platform
-- Built with modern web technologies for optimal performance
-
-### 📚 **Arabic Programming Hub** - Educational Platform
-- Creating Arabic programming content and tutorials
-- Making technology accessible to Arabic-speaking developers
-
-### 📊 **Data Analytics Dashboard** - Business Intelligence
-- Interactive dashboards for data-driven decision making
-- Clean and intuitive data visualization
 
 ## 📊 GitHub Statistics
 
