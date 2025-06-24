@@ -5,8 +5,6 @@
 ```
     🌿 In the heart of green mountains, dreams grow and ideas flourish 🌿
 ```
-
-![Green Nature Banner](https://github.com/je-deve/je-deve/blob/main/1198867-3840x1080-desktop-dual-monitors-studio-ghibli-wallpaper.jpg)
 </div>
 
 ---
