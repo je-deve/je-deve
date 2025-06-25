@@ -35,28 +35,28 @@ const jumanah = {
 
 <div align="center">
 
-### 💎 Languages
+###  Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### ✨ Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚡ Backend
+###  Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### 🛠️ Tools & Design
+### Tools & Design
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -90,19 +90,6 @@ const jumanah = {
 
 </div>
 
----
-
-<div align="center">
-
-## 🌿💭 My Programming Philosophy 💭🌿
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-> *"Like towering mountains, code should be strong and stable* 🏔️
-> 
-> *Like green meadows, it should be beautiful and pleasant to behold"* 🌸
-
-</div>
 
 ---
 
@@ -121,31 +108,9 @@ My doors are always open for collaboration and discussion:
 
 ---
 
-## 📈🚀 Current Journey
 
 <div align="center">
 
-```python
-class CurrentJourney:
-    def __init__(self):
-        self.learning = "Advanced AI and Machine Learning 🤖"
-        self.collaborating = "Arabic programming content and educational resources 🌍"
-        self.goals_2025 = [
-            "Launch comprehensive Arabic programming tutorials 📚",
-            "Complete HR system 💼"
-        ]
-    
-    def get_status(self):
-        return "Always coding, always learning! 💫"
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
 ### 🌿✨ "Building bridges between Arabic speakers and technology" ✨🌿
 
