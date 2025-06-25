@@ -1,19 +1,32 @@
-# 🏔️ Hello World, I’m Jumanah Alrehaili
-
 <div align="center">
-  
+
+# 🏔️ Hello World, I'm Jumanah Alrehaili
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&lines=Information+Systems+Graduate;AI+%26+Data+Analytics+Enthusiast;Arabic+Programming+Advocate;Mobile+Development+Explorer" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ```
-    🌿 In the heart of green mountains, dreams grow and ideas flourish 🌿
+🌿 In the heart of green mountains, dreams grow and ideas flourish 🌿
 ```
+
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ## 🌱 About Me
 
 Hi, I'm **Jumanah**! I'm an Information Systems graduate passionate about AI, data analytics, and mobile development. I work on various projects and I'm dedicated to enriching Arabic programming content.
 
-## 🍃 Technical Skills
+---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+## 🍃 Technical Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,15 +54,26 @@ Hi, I'm **Jumanah**! I'm an Information Systems graduate passionate about AI, da
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
 <img src="https://github-readme-stats.vercel.app/api?username=jumanah&show_icons=true&theme=forest&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=c9d1d9" alt="Jumanah's GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanah&layout=compact&theme=forest&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9" alt="Top Languages" width="48%" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jumanah&bg_color=0d1117&color=4ade80&line=4ade80&point=22c55e&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ## 🌿 My Programming Philosophy
 
@@ -57,16 +81,38 @@ Hi, I'm **Jumanah**! I'm an Information Systems graduate passionate about AI, da
 > 
 > *Like green meadows, it should be beautiful and pleasant to behold"*
 
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+
 ## 🤝 Connect With Me
 
+</div>
+
 My doors are always open for collaboration and discussion:
+
+<div align="center">
 
 - 🌐 **Portfolio**: Soon
 - 📧 **Email**: joojahy9@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/jumanah](https://linkedin.com/in/jumanahalrehaili)
 - 🐦 **X**: [@Ar4Cloudy](https://x.com/Ar4Cloudy)
 
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
 ## 📈 Current Journey
+
+</div>
 
 ```
 🌱 Currently learning: Advanced AI and Machine Learning
@@ -77,9 +123,13 @@ My doors are always open for collaboration and discussion:
 ---
 
 <div align="center">
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+
 ### 🌿 "Building bridges between Arabic speakers and technology" 🌿
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jumanah&color=green&style=flat-square&label=Profile+Views)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d1117&bg_color=0d1117" width="100%">
