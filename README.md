@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=Information+Systems+Graduate+💫;AI+%26+Data+Analytics+Enthusiast+🤖;Arabic+Programming+Advocate+🌟;Building+Beautiful+Applications+🎨" alt="Typing SVG" />
 
-```
-🌿✨ In the heart of green mountains, dreams grow and ideas flourish ✨🌿
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
 </div>
 
 ## 🌱💫 About Me
@@ -106,7 +100,7 @@ My doors are always open for collaboration and discussion:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 
 <div align="center">
