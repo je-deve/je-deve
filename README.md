@@ -75,11 +75,11 @@ const jumanah = {
 <tr>
 <td align="center">
 <b>📈 Overall Stats</b><br>
-<img src="https://github-readme-stats.vercel.app/api?username=jumanah&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=c9d1d9&custom_title=Jumanah's%20GitHub%20Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=je-deve&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=c9d1d9&custom_title=Jumanah's%20GitHub%20Stats" width="100%" />
 </td>
 <td align="center">
 <b>🔥 Most Used Languages</b><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=je-deve&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9" width="100%" />
 </td>
 </tr>
 </table>
