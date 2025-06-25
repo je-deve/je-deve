@@ -82,12 +82,6 @@ const jumanah = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9" width="100%" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-<b>⚡ Contribution Graph</b><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jumanah&bg_color=0d1117&color=4ade80&line=22c55e&point=ffffff&area=true&hide_border=true" width="100%" />
-</td>
-</tr>
 </table>
 
 </div>
