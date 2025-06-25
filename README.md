@@ -1,8 +1,14 @@
 # Hello, I'm Jumanah Alrehaili 👋
 
+**Information Systems Graduate & Developer**
+
+Passionate about AI, data analytics, and enriching Arabic programming content.
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Information+Systems+Graduate;AI+%26+Data+Analytics+Enthusiast;Building+Arabic+Programming+Content;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
+
+---
 
 ## About Me
 
@@ -16,14 +22,10 @@
 ## Technical Skills
 
 ### Programming Languages
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
