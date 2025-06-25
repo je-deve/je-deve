@@ -10,6 +10,7 @@
 ## About Me
 
 **Information Systems Graduate & Developer**
+
 Passionate about AI, data analytics, and enriching Arabic programming content.
 
 ---
