@@ -13,7 +13,6 @@
 
 Passionate about AI, data analytics, and enriching Arabic programming content.
 
----
 
 ## Technical Skills
 
@@ -43,7 +42,7 @@ Passionate about AI, data analytics, and enriching Arabic programming content.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 </div>
 
----
+
 
 ## GitHub Statistics
 
@@ -62,7 +61,7 @@ Passionate about AI, data analytics, and enriching Arabic programming content.
 
 </div>
 
----
+
 
 ## Connect With Me
 
