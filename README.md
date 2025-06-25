@@ -21,7 +21,7 @@ Hi, I'm **Jumanah**! I'm an Information Systems graduate passionate about AI, da
 ```javascript
 const jumanah = {
     education: "Information Systems 🎓",
-    interests: ["AI 🤖", "Data Analytics 📊", "Mobile Dev 📱"],
+    interests: ["AI 🤖", "Data Analytics 📊", "Mobile and Web Dev 📱"],
     mission: "Arabic Programming Content 🌍",
     status: "Always Learning 📚"
 };
