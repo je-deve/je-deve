@@ -21,6 +21,8 @@ Passionate about AI, data analytics, and enriching Arabic programming content.
 
 ## Technical Skills
 
+<div align="center">
+
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
@@ -43,6 +45,7 @@ Passionate about AI, data analytics, and enriching Arabic programming content.
 ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+</div>
 
 ---
 
