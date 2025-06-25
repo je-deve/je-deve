@@ -110,7 +110,7 @@ My doors are always open for collaboration and discussion:
 
 ### 🌿✨ "Building bridges between Arabic speakers and technology" ✨🌿
 
-![Profile Views](https://komarev.com/ghpvc/?username=jumanah&color=green&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/jumanah?color=4ade80&style=for-the-badge&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=je-deve&color=green&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/je-deve?color=4ade80&style=for-the-badge&label=Followers)
 
 </div>
